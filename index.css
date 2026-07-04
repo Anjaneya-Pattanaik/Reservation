@@ -108,7 +108,7 @@ section {
 .homecont h1 #cold{
   position: relative;
   top: -5rem;
-  color: orange;
+  color: green;
   animation: drop 5s infinite forwards;
 }
 @keyframes drop{
